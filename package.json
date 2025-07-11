@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crash-2025",
+  "version": "1.0.0",
+  "description": "NodeJs crash course 2025",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joy773/NodeJS-CrashCourse-2025.git"
+  },
+  "author": "Dibbojit Das Joy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joy773/NodeJS-CrashCourse-2025/issues"
+  },
+  "homepage": "https://github.com/Joy773/NodeJS-CrashCourse-2025#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
